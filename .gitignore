@@ -1,0 +1,10 @@
+*.pyc
+*~
+.idea
+artifacts/
+.pytest_cache
+.python-version
+__pycache__
+.vscode/
+dist
+.ruff_cache
